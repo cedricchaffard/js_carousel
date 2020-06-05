@@ -1,6 +1,6 @@
 let i = 0; // Start point
 let images = [];
-let time = 2000;
+let time = 3000;
 
 
 // Image List
